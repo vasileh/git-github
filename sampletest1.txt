@@ -1,1 +1,3 @@
-this is the first commit from vscode.
+This is the first code file
+I am java developer and I am developing and gaming projects.
+
