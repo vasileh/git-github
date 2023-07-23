@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the 2nd commit dev_test
+=======
+this commit is done from the vscode gui
+>>>>>>> ba88d750045b8f1cb25a030b5ab4c4afb3e66eeb
