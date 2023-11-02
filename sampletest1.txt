@@ -3,3 +3,14 @@ I am java developer and I am developing and gaming projects.
 this is an insert from the master branch, developer 1 has change the text devtext1
 --
 this the current tutorial on git 02.11.2023
+--
+this is the first change of the commit 1
+--
+this is the second change but still of commit 1
+--
+this is the 3rd change of commit 1
+--
+this is the 4td chage of commit1
+-
+this is the last change of commit 1
+-
