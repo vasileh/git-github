@@ -1,4 +1,6 @@
 1st commit master_ft locally1st commit master locally
 --
-2nd commit master_ft locally
+2nd commit master_ft locall
+--
+3rd commit master_ft locally merge
 
