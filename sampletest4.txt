@@ -1,17 +1,3 @@
 1st commit master github
 --
 2nd commit master github
---
-3rd commit master github
---
-4rd commit master github
---
-1st commit master_feature locally
---
-2nd commit master_feature locally
---
---
-1st commit master_feature locally
---
-2nd commit master_feature locally
---
